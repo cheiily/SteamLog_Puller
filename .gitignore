@@ -1,0 +1,8 @@
+.idea
+target
+
+config.ini
+*.log
+how_to_configure.txt
+todo.txt
+
